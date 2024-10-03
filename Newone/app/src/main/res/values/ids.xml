@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editHoten" type="id" />
+    <item name="editSdt" type="id" />
+    <item name="editSearch" type="id" />
+    <item name="btnAdd" type="id" />
+    <item name="btnDelete" type="id" />
+    <item name="lstDanhBa" type="id" />
+</resources>
